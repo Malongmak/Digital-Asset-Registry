@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/1beed47a-3aed-40c5-b581-ec9a4478623c)
 # Digital Asset Registry Smart Contract
 
 ## Overview
